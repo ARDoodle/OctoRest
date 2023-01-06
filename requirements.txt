@@ -29,7 +29,7 @@ more-itertools==8.0.2
 netaddr==0.7.19
 netifaces==0.10.9
 OctoPrint==1.4.0rc3
--e git+git@github.com:dougbrion/octorest.git@510b84dbc4ede1c8bbc92239e04a5c7299f1f96c#egg=octorest
+#-e git+git@github.com:dougbrion/octorest.git@510b84dbc4ede1c8bbc92239e04a5c7299f1f96c#egg=octorest
 packaging==19.2
 pathtools==0.1.2
 pkginfo==1.5.0.1
